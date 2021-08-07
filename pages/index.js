@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
+import Image from "next/image";
 
 export default function Home() {
   return (
@@ -54,7 +55,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by <img src="/vercel.svg" alt="Vercel" className="logo" />
+          Powered by &nbsp; <Image src="/profile.jpg" alt="Vercel" className="logo" width="50" height="50" />
         </a>
       </footer>
 
