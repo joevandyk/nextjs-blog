@@ -55,7 +55,8 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by &nbsp; <Image src="/profile.jpg" alt="Vercel" className="logo" width="50" height="50" />
+          Powered by &nbsp; <Image src="/profile.jpg" alt="JVD" className="logo" width="50" height="50" />
+          <Image src="https://crowdcow-images.imgix.net/https%3A%2F%2Fcrowdcow-images.imgix.net%2Fhttps%253A%252F%252Fcrowdcow-uploads.imgix.net%252Fpicture%252Fproduction%252Fimh7kri4qua%252FThickBacon.jpg%253Fw%253D550%2526fit%253Dmax%3Fixlib%3Drails-2.1.4%26auto%3Dcompress%252Cformat%26cs%3Dsrgb%26q%3D40%26w%3D600%26h%3D400%26fit%3Dmin%26s%3D9e5f14e11395499e8bfe9027d20b57b7?ixlib=rails-2.1.4&alt=View%20details%20about%20Heritage%20Thick-Cut%20Bacon&auto=compress%2Cformat&cs=srgb&q=40&fit=min&s=542596963f3405fbd0bafe025098c029" alt="external" className="logo" width="50" height="50" />
         </a>
       </footer>
 
