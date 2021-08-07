@@ -10,13 +10,6 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className="title">
-          Carlos, Read{" "}
-          <Link href="/posts/first-post">
-            <a>this page!</a>
-          </Link>
-        </h1>
-
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
@@ -45,6 +38,14 @@ export default function Home() {
             <p>Instantly deploy your Next.js site to a public URL with Vercel.</p>
           </a>
         </div>
+
+        <h1 className="title">
+          Carlos, Read{" "}
+          <Link href="/posts/first-post">
+            <a>this page!</a>
+          </Link>
+        </h1>
+
       </main>
 
       <footer>
